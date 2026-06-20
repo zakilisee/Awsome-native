@@ -8,7 +8,7 @@
 An Awesome React native repository with All levels Learning projects
 </b></p>
 <p align="center">
-A repository with no limits, Add you're projects, or fork this repo and use any of this Awsome projects  
+A repository with no limits, Add you're projects, or fork this repo and use any of this Awesome projects  
 </p>
 
 <div align="center">
@@ -47,12 +47,12 @@ We apreciate you're contributions ❤️
 ### How to contribute:
 💡 Please create a separate branch for each contribution. Do not push directly to main.
 ### 1. Fork the repository
-Click the **Fork** button (top right this repo) [Awsome-native](https://github.com/zakilisee/Awsome-native).
+Click the **Fork** button (top right this repo) [awesome-native](https://github.com/zakilisee/awesome-native).
 
 ### 2. Clone your fork
 ```bash
-git clone https://github.com/YOUR_USERNAME/Awsome-native.git
-cd Awsome-native
+git clone https://github.com/YOUR_USERNAME/awesome-native.git
+cd awesome-native
 ```
 
 ### 3. Create a branch
